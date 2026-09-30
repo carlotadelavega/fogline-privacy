@@ -1,8 +1,8 @@
 # Fogline – Privacy Policy / Política de privacidad
 
-Official privacy policy for **Fogline**, a minimalist lighthouse logic puzzle for Android by **Meridia**.
+Official privacy policy for **Fogline**, a minimalist lighthouse logic puzzle for Android by **Meridia Games**.
 
-Política de privacidad oficial de **Fogline**, un juego de lógica minimalista de faros para Android, de **Meridia**.
+Política de privacidad oficial de **Fogline**, un juego de lógica minimalista de faros para Android, de **Meridia Games**.
 
 ## 🌐 Read the policy / Leer la política
 
@@ -23,7 +23,7 @@ Política de privacidad oficial de **Fogline**, un juego de lógica minimalista 
 
 ## 📬 Contact / Contacto
 
-CORREO_DE_CONTACTO
+labsmeridia@gmail.com
 
 ---
 
